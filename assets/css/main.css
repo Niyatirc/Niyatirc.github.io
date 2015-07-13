@@ -174,8 +174,9 @@ a:after {
 }
 
 #headerwrap h1 {
-	font-size: 70px;
+	font-size: 65px;
 	color: white;
+	margin-left: 10px;
 }
 
 #headerwrap h3 {
