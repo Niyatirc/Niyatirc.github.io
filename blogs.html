@@ -4,13 +4,15 @@ title: "Blogs"
 navigationName: "Blogs"
 description: "User Experience Designer | niyatijoshi25[at]gmail.com"
 coverImg: "home-bg.jpg"
+group: "navigation"
+order: 2
 ---
 
     <!-- Main Content -->
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                {% for news in paginator.posts %}
+                {% for news in site.posts %}
                     <div class="post-preview">
                         <a href="{{ news.url }}">
                             <h2 class="post-title">

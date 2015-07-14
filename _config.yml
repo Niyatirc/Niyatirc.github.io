@@ -1,3 +1,5 @@
 markdown: redcarpet
-paginate: 4
 
+paginate: 10
+
+paginate_path: "blog/page:num"
