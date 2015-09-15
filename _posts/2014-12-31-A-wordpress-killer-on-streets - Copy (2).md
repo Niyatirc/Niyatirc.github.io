@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A wordpress killer on streets"
-description: "Jekyll is so easy to use you can create a Blog lighting fast."
-author: "Ajinkya"
+description: "Why today's doctors need to have technical knowledge"
+author: "Niyati"
 coverImg: "post-bg.jpg"
 
 ---
